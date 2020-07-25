@@ -1,5 +1,2 @@
-目前状态: 无业游民
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sdttttt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-方向是**分布式存储**, 因为喜欢数据.
-
-能拿的出手的东西没多少, 下面挂着的基本就差不多了.
