@@ -6,6 +6,6 @@
 
 ---
 
-[![https://t.me/sdzzzzz](https://img.shields.io/badge/💬%20Telegram-SDTTTTT-blue.svg)](https://t.me/sdzzzzz)
+[![https://t.me/sdzzzzz](https://img.shields.io/badge/Telegram-SDTTTTT-blue.svg?logo=telegram)](https://t.me/sdzzzzz)
 [![](https://img.shields.io/badge/bilibili-SDTTTTT-red)](https://space.bilibili.com/27781539)
 
