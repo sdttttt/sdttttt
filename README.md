@@ -1,6 +1,6 @@
 
 
-![](https://idanmu.net/2020/07/0be6d1d25a47b.gif)
+![](https://octodex.github.com/images/labtocat.png)
 
 ---
 
