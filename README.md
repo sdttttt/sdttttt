@@ -7,4 +7,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdttttt&layout=compact)
 
-~~几乎什么语言都写过.~~
+~~小生几乎什么语言都写过.~~
