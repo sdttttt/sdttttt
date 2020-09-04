@@ -8,5 +8,3 @@
 - [ ] 对开源欢迎。
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdttttt&layout=compact)
-
-~~小生几乎什么语言都写过.~~
