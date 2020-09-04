@@ -1,6 +1,8 @@
 
 
 [![https://t.me/sdzzzzz](https://img.shields.io/badge/Telegram-SDTTTTT-blue.svg?logo=telegram)](https://t.me/sdzzzzz)
+[![https://t.me/sdzzzzz](https://img.shields.io/badge/Facebook-SDTTTTT-9cf.svg?logo=facebook)](https://www.facebook.com/sdzzzzz)
+
 
 - [ ] 想过平静的生活。
 - [ ] 对开源欢迎。
