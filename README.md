@@ -15,4 +15,4 @@ If you are interested in my skills or need to work for free, you can talk to me 
 [![https://t.me/sdzzzzz](https://img.shields.io/badge/Telegram-SDTTTTT-blue.svg?logo=telegram)](https://t.me/sdzzzzz) 
 [![https://t.me/sdzzzzz](https://img.shields.io/badge/Discord-SDTTTTT-99f.svg?logo=Discord)](https://discord.gg/VVqZzus)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdttttt&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdttttt&layout=compact)
