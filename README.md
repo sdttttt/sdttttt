@@ -17,3 +17,5 @@ If you are interested in my skills or need to work for free, you can talk to me 
 [![https://t.me/sdzzzzz](https://img.shields.io/badge/Discord-SDTTTTT-99f.svg?logo=Discord)](https://discord.gg/VVqZzus)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdttttt&layout=compact)
+
+Also, my source code is free. Please feel free to use it, but don't break the law. After secondary development, can even be released in your own name.
