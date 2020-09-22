@@ -1,7 +1,9 @@
 
 ## Who am i❓ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sdttttt.sdttttt)
 
-Hi, I am a bricklayer, on the Internet. I often deal with distributed network programming. At the same time, I also like refactoring and design. Coding is an art. I like to build software with the simplest design.
+Hi, I am a bricklayer, on the Internet. I often deal with distributed network programming. At the same time, 
+I also like refactoring and design. Coding is an art. I like to build software with the simplest design.
+
 Recently, I am a little obsessed with DevOps. 
 
 ## Have you done anything notable? 
