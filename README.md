@@ -4,7 +4,7 @@
 Hi, I am a bricklayer, on the Internet. I often deal with distributed network programming. At the same time, 
 I also like refactoring and design. Coding is an art. I like to build software with the simplest design.
 
-Recently, I am a little obsessed with DevOps. 
+Recently, I have been studying the encryption algorithm.
 
 ## Have you done anything notable? 
 
