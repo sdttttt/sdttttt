@@ -24,4 +24,4 @@ If you are interested in my skills or need to work for free, you can talk to me 
 
 ## My Friend
 
-如果你对`计算机病毒`, `windows内核`感兴趣, 请看看@idiotc4t, He's really cool.
+如果你对`计算机病毒`, `windows内核`感兴趣, 请看看[@idiotc4t](https://github.com/idiotc4t)和他的[博客](https://idiotc4t.gitbook.io/), He's really cool.
