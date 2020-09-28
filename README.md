@@ -6,6 +6,10 @@ I also like refactoring and design. Coding is an art. I like to build software w
 
 Recently, I have been studying the encryption algorithm.
 
+## My Friend
+
+如果你对`计算机病毒`, `windows内核`感兴趣, 请看看[@idiotc4t](https://github.com/idiotc4t)和他的[博客](https://idiotc4t.gitbook.io/), He's really cool.
+
 ## Have you done anything notable? 
 
 em... Maybe you have used `BangumiOpen`, which is an vscode extension.
@@ -21,7 +25,3 @@ If you are interested in my skills or need to work for free, you can talk to me 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdttttt&layout=compact)
 
 > Also, all my source code is free. Please feel free to use it, but don't break the law. After secondary development, can even be released in your own name.
-
-## My Friend
-
-如果你对`计算机病毒`, `windows内核`感兴趣, 请看看[@idiotc4t](https://github.com/idiotc4t)和他的[博客](https://idiotc4t.gitbook.io/), He's really cool.
