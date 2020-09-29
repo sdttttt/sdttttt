@@ -8,7 +8,7 @@ Recently, I have been studying the encryption algorithm.
 
 ## My Friend
 
-如果你对`计算机病毒`, `windows内核`感兴趣, 请看看[@idiotc4t](https://github.com/idiotc4t)还有他的[博客](https://idiotc4t.gitbook.io/), He's really cool!
+如果你对`计算机病毒`, `windows内核`感兴趣, 请看看[@idiotc4t](https://github.com/idiotc4t)还有他的[博客](https://idiotc4t.gitbook.io/), 他是计算机安全方面的砖家.
 
 ## Have you done anything notable? 
 
