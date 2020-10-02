@@ -24,4 +24,4 @@ If you are interested in my skills or need to work for free, you can talk to me 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdttttt&layout=compact)
 
-> Also, all my source code is free. Please feel free to use it, but don't break the law. After secondary development, can even be released in your own name.
+> my All code follows **MIT LICENSE**!
