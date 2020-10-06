@@ -24,4 +24,4 @@ If you are interested in my skills or need to work for free, you can talk to me 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdttttt&layout=compact)
 
-> My all code follows **MIT LICENSE**!
+> My all code follows **MIT LICENSE**.
