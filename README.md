@@ -4,6 +4,8 @@
 Hi, I am a bricklayer, on the Internet. I often deal with network programming. At the same time, 
 I also like refactoring and design. Coding is an art. I like to build software with the simplest design.
 
+Non-professional developer :)
+
 Recently, I have been studying the encryption algorithm.
 
 ## My Friend
