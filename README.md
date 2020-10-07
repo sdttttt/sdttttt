@@ -17,7 +17,6 @@ Recently, I have been studying the encryption algorithm.
 
 em... Maybe you have used `BangumiOpen`, which is an vscode extension.
 I may make more contributions to some open source network projects in the future. 
-My ultimate goal as a back-end programmer is to write a `DFS`.
 
 ## Talk me 
 
