@@ -4,7 +4,8 @@
 Hi, I am a bricklayer, on the Internet. I often deal with network programming. At the same time, 
 I also like refactoring and design. Coding is an art. I like to build software with the simplest design.
 
-Non-professional developer :)
+Non-professional developer 
+![b07df97ef8a45407f87d0ba0bb5822d7453025f9.jpg](https://idanmu.net/2020/10/9cc89aa9e3c47.jpg)
 
 Recently, I have been studying the encryption algorithm.
 
