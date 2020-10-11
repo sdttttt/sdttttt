@@ -11,7 +11,7 @@ Recently, I have been studying the encryption algorithm.
 
 ## My Friend
 
-如果你对`计算机病毒`, `Windows内核编程`感兴趣, 请看看[@idiotc4t](https://github.com/idiotc4t)还有他的[博客](https://idiotc4t.gitbook.io/), 他是计算机以及Windows系统安全的研究者.
+如果你对`计算机病毒`, `Windows内核编程`感兴趣, 请看看[@idiotc4t](https://github.com/idiotc4t)还有他的[博客](https://idiotc4t.gitbook.io/), 他是研究计算机、Windows系统安全的学者.
 
 ## Have you done anything notable? 
 
