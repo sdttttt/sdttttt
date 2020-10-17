@@ -1,5 +1,5 @@
 
-## Who am i❓ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sdttttt.sdttttt)
+## About me
 
 Hi, I am a bricklayer, on the Internet. I often deal with network programming. At the same time, 
 I also like refactoring and design. Coding is an art. I like to build software with the simplest design.
@@ -24,4 +24,4 @@ If you are interested in my skills or need to work for free, you can talk to me 
 [![https://t.me/sdzzzzz](https://img.shields.io/badge/Telegram-SDTTTTT-blue.svg?logo=telegram)](https://t.me/sdzzzzz) 
 ![https://t.me/sdzzzzz](https://img.shields.io/badge/LINE-SDTTTTT-green.svg?logo=LINE)
 
-> My all code follows **MIT LICENSE**.
+> My all code follows **MIT LICENSE**. ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sdttttt.sdttttt)
