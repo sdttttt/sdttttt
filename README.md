@@ -8,8 +8,8 @@ I like the art of design program. I was intoxicated by the excellent structural 
 ## Talk me 
 
 If you are interested in my skills or need to work for free, you can talk to me about it.
-[![https://t.me/sdzzzzz](https://img.shields.io/badge/Telegram-SDTTTTT-blue.svg?logo=telegram)](https://t.me/sdzzzzz) 
-![https://t.me/sdzzzzz](https://img.shields.io/badge/LINE-SDTTTTT-green.svg?logo=LINE)
+[![https://t.me/sdzzzzz](https://img.shields.io/badge/Telegram-sdttttt-blue.svg?logo=telegram)](https://t.me/sdzzzzz) 
+![https://t.me/sdzzzzz](https://img.shields.io/badge/LINE-sdttttt-green.svg?logo=LINE)
 
 ## My Friend
 
