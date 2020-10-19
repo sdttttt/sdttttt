@@ -2,8 +2,11 @@
 ## About me
 
 Hi, I am a bricklayer, on the Internet. I often deal with network programming. 
-I usually spend part of my time reading the literature and have very little time to code.
-I like the art of design program. I was intoxicated by the excellent structural design.
+I usually spend a lot of time reading literature and code. 
+It takes very little time to actually write a program. 
+*(unless there is a project that interests me)*
+
+I like program structure design. Refactoring is my disease.
 
 ## Talk me 
 
