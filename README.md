@@ -6,7 +6,6 @@ I usually spend a lot of time reading literature and code.
 It takes very little time to actually write a program. 
 *(unless there is a project that interests me)*
 
-I like program structure design. Refactoring is my disease.
 
 ## Talk me 
 
