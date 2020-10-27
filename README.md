@@ -3,8 +3,8 @@
 
 Hi, I am a bricklayer, on the Internet. I often deal with network programming. 
 I usually spend a lot of time reading literature and code. 
-It takes very little time to actually write a program. 
-*(unless there is a project that interests me)*
+I have little time to write code.
+*(unless there is a something that interests me)*
 
 
 ## Talk me 
