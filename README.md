@@ -18,4 +18,4 @@ If you are interested in my skills or need to work for free, you can talk to me 
 
 If you are interested in `computer virus` and `Windows kernel programming`, please take a look at [@idiotc4t](https://github.com/idiotc4t) and his [blog](https://idiotc4t.gitbook.io/), he is a scholar of computer and Windows system security.
 
-> I like free software. I also like to write them. My all code follows **MIT LICENSE**. ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sdttttt.sdttttt)
+> I like free software. I also like to write them. My all code follows **MIT LICENSE**. It will not change in the future. ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sdttttt.sdttttt)
