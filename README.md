@@ -6,7 +6,7 @@ I usually spend a lot of time reading literature and code.
 I have little time to write code.
 *(unless there is a something that interests me)*
 
-My **star** is only for projects that really help me, as well as my friends.
+My **⭐** is only for projects that really help me, as well as my friends.
 
 ## Talk me 
 
