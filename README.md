@@ -1,7 +1,7 @@
 
 ## About ME
 
-Hi, I am a bricklayer, on the Internet. I often deal with network programming. 
+Hi, I am a casual bricklayer, on the Internet.
 I usually spend a lot of time reading literature and code. 
 I have little time to write code.
 *(unless there is a something that interests me)*
