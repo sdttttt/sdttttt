@@ -19,4 +19,9 @@ If you are interested in `computer virus` and `Windows kernel programming`, plea
 
 > I love free software. I also like to write them. My all code follows **MIT LICENSE**. It will not change in the future. ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sdttttt.sdttttt)
 
+
+<details>
+<summary>The most recent language written.</summary>
+ 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=sdttttt&layout=compact)
+</details>
