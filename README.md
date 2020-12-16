@@ -24,4 +24,5 @@ If you are interested in `computer virus` and `Windows kernel programming`, plea
 <summary>The most recent language written.</summary>
  
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=sdttttt&layout=compact)
+> My job has a lot to do with Full Stack Develop. So it's very common for me to use a different language.
 </details>
