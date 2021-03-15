@@ -6,8 +6,6 @@ I usually spend a lot of time reading literature and code.
 I have little time to write code.
 *(unless there is a something that interests me)*
 
-My **⭐** is only for projects that really help me, as well as my friends. 
-
 ## Talk me 
 
 If you are interested in my skills or need to work for free, you can talk to me about it. talulah@21cn.com
