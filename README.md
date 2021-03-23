@@ -8,7 +8,7 @@ I have little time to write code.
 
 ## Talk me 
 
-If you are interested in my skills or need to work for free, you can talk to me about it. talulah@21cn.com
+If you are interested in my skills or need to work for free, please contact me by email. I'll read it in the morning. `talulah@21cn.com`
 
 
 ## In addition
