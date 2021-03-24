@@ -2,9 +2,12 @@
 ## About ME
 
 Hi, I am a casual farmers, on the Internet.
-I usually spend a lot of time reading literature and code. 
-I have little time to write code.
+
+Usually I spend more time reading than coding.
+i like to keep control of the program code, so I use as little dependency as possible.
 *(unless there is a something that interests me)*
+
+The rest of the time, I am just an ordinary game player and paper lover.
 
 ## Talk me 
 
