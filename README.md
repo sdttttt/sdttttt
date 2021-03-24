@@ -5,7 +5,6 @@ Hi, I am a casual farmers, on the Internet.
 
 Usually I spend more time reading than coding.
 i like to keep control of the program code, so I use as little dependency as possible.
-*(unless there is a something that interests me)*
 
 The rest of the time, I am just an ordinary game player and paper lover.
 
