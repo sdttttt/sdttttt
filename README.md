@@ -1,7 +1,7 @@
 
 ## About ME
 
-Hi, I am a casual farmers, on the Internet.
+Hi, I am a casual farmers, on the Internet. at the moment I've been working on the network direction and that may change.
 
 Usually I spend more time reading than coding.
 i like to keep control of the program code, so I use as little dependency as possible.
