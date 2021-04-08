@@ -8,7 +8,7 @@ i like to keep control of the program code, so I use as little dependency as pos
 
 The rest of the time, I am just an ordinary game player and paper lover.
 
-The software I write *on Github* is actually free software, and yes, I don't even own the copyright on it, and I'm not responsible for it. 
+The software I write *on Github* is actually free software, and yes, I don't even own the **copyright** on it, and I'm not responsible for it. 
 
 > `The Unlicense`. the license detail can be found [here](https://unlicense.org/).
 
