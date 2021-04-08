@@ -8,8 +8,9 @@ i like to keep control of the program code, so I use as little dependency as pos
 
 The rest of the time, I am just an ordinary game player and paper lover.
 
-All the software I wrote is `Unlicense` license. the license detail can be found [here](https://unlicense.org/). They are not copyrighted, you can take, modify, sell. i don't mind writing your name on them at all. *(I want my code to live, though in a different way.)*
+The software I write is actually free software, and yes, I don't even own the copyright on it, and I'm not responsible for it. 
 
+> `The Unlicense`. the license detail can be found [here](https://unlicense.org/).
 
 ## Talk me 
 
