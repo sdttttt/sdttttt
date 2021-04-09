@@ -5,6 +5,7 @@ Hi, I am a casual farmers, on the Internet. at the moment I've been working on t
 
 Usually I spend more time reading than coding.
 i like to keep control of the program code, so I use as little dependency as possible.
+I don't like to use **frameworks**, I prefer to use **libraries**. Don't let frameworks limit your imagination.
 
 The rest of the time, I am just an ordinary game player and paper lover.
 
