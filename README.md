@@ -1,7 +1,7 @@
 
 ## About ME
 
-![https://discord.gg/wwZyJ3Etwt](https://img.shields.io/discord/828070178897133638)
+[![](https://img.shields.io/discord/828070178897133638)](https://discord.gg/wwZyJ3Etwt)
 
 Hi, I am a casual farmers, on the Internet. at the moment I've been working on the network direction and that may change.
 
