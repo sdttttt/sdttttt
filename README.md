@@ -1,6 +1,8 @@
 
 ## About ME
 
+![https://img.shields.io/discord/828070178897133638](https://discord.gg/wwZyJ3Etwt)
+
 Hi, I am a casual farmers, on the Internet. at the moment I've been working on the network direction and that may change.
 
 Usually I spend more time reading than coding.
