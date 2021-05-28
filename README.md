@@ -2,6 +2,7 @@
 ## About ME
 
 [![](https://img.shields.io/discord/828070178897133638)](https://discord.gg/wwZyJ3Etwt)
+![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1465?logoColor=dark%26project=%26recentMS=1296000000%26showProject=false)
 
 Hi, I am a casual farmers, on the Internet. at the moment I've been working on the network direction and that may change.
 
