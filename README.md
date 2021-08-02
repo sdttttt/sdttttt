@@ -4,11 +4,8 @@
 [![](https://img.shields.io/discord/828070178897133638)](https://discord.gg/wwZyJ3Etwt)
 ![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1465?logoColor=dark%26project=%26recentMS=1296000000%26showProject=false)
 
-Hi, I am a casual farmers, on the Internet. at the moment I've been working on the network direction and that may change.
-
+Hi, I am a casual farmers, on the Internet. 
 Usually I spend more time reading than coding.
-i like to keep control of the program code, so I use as little dependency as possible.
-I don't like to use **frameworks**, I prefer to use **libraries**. Don't let frameworks limit your imagination.
 
 The rest of the time, I am just an ordinary game player and paper lover.
 
