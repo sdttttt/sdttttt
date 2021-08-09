@@ -15,11 +15,6 @@ The software I write *on Github* is in the **Public Domain**, and yes, I don't e
 
 The rest of the time, I am just an ordinary game player and paper lover.
 
-## Talk me 
-
-If you are interested in my skills or need to work for free, please contact me by email. I'll read it in the morning. `sdttttt@outlook.com`
-
-
 ## In addition
 
 
