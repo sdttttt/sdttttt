@@ -4,7 +4,7 @@
 [![](https://img.shields.io/discord/828070178897133638)](https://discord.gg/wwZyJ3Etwt)
 ![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1465?logoColor=dark%26project=%26recentMS=1296000000%26showProject=false)
 
-Hi, I am a casual farmers, on the Internet. 
+Hi, I am a lazy casual farmers, on the Internet. 
 Usually I spend more time reading than coding.
 
 The software I write *on Github* is in the **Public Domain**, and yes, I don't even own the **copyright** on it, and I'm not responsible for it. 
