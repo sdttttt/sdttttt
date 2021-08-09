@@ -9,7 +9,9 @@ Usually I spend more time reading than coding.
 
 The software I write *on Github* is in the **Public Domain**, and yes, I don't even own the **copyright** on it, and I'm not responsible for it. 
 
-> `The Unlicense`. the license detail can be found [here](https://unlicense.org/).
+> Why is that?
+> 
+> > `The Unlicense`. the license detail can be found [here](https://unlicense.org/).
 
 The rest of the time, I am just an ordinary game player and paper lover.
 
