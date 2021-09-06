@@ -6,6 +6,7 @@
 
 Hi, I am a lazy casual farmers, on the Internet. 
 Usually I spend more time reading than coding.
+network program is my field of study, but I'm a little tired of it.
 
 The software I write *on Github* is in the **Public Domain**, and yes, I don't even own the **copyright** on it, and I'm not responsible for it. 
 
