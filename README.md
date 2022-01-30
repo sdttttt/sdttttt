@@ -14,6 +14,9 @@ The software I write *on Github* is in the **Public Domain**, and yes, I don't e
 > 
 > > `The Unlicense`. the license detail can be found [here](https://unlicense.org/).
 
+
+If you like my work very much, you can send me a positive email. Thank you. (" A")
+
 The rest of the time, I am just an ordinary game player and paper lover.
 
 ## In addition
