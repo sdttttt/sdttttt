@@ -9,11 +9,6 @@ I like computer engineering, but I don't like writing code.（x _x）
 
 The software I write *on Github* is in the **Public Domain**, and yes, I don't even own the **copyright** on it, and I'm not responsible for it. **At the same time, I do not accept any sponsorship.**
 
-> Why is that?
-> 
-> > `The Unlicense`. the license detail can be found [here](https://unlicense.org/).
-
-
 If you like my work very much, you can send me a positive email. Thank you. (" A")
 
 The rest of the time, I am just an ordinary game player and paper lover.
