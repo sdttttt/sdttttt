@@ -8,6 +8,8 @@ I like computer engineering, but I don't like writing code.（x _x）
 
 If you like my work very much, you can send me a positive email. Thank you. (" A")
 
+In my spare time you can find me, Discord is a great social tool, although not very commonly used in my country. `sdtttttt#4241`
+
 ## In addition
 
 If you are interested in `computer virus` and `Windows kernel programming`, please take a look at [@idiotc4t](https://github.com/idiotc4t) and his [blog](https://idiotc4t.gitbook.io/), he is a scholar of computer and Windows system security.
