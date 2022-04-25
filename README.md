@@ -1,4 +1,6 @@
 
+![Metrics](https://metrics.lecoq.io/sdttttt?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&activity=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=recently-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FShanghai)
+
 ## Interesting facts
 
 * I have been using **@sdttttt** as my nick name since 2008.
