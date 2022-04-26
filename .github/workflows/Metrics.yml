@@ -45,7 +45,7 @@ jobs:
           plugin_languages_recent_days: 100
           plugin_languages_recent_load: 300
           plugin_languages_sections: recently-used
-          plugin_languages_threshold: 0%
+          plugin_languages_threshold: 2%
           
           plugin_habits: yes
           plugin_habits_charts: yes
