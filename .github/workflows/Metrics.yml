@@ -26,6 +26,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
+          
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -44,4 +45,5 @@ jobs:
           plugin_languages_threshold: 0%
           
           plugin_habits: yes
+          plugin_habits_charts: no
           
