@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 737kb of code in 294 edited files across 231 commits over last 88 days</small>
+                <small>estimation from 738kb of code in 296 edited files across 231 commits over last 88 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.7853107344633" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="309.7853107344633" y="0" width="59.286723163841806" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="369.07203389830505" y="0" width="41.54943502824859" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="410.6214689265537" y="0" width="32.193502824858754" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="442.81497175141243" y="0" width="17.18502824858757" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.45749559082896" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="309.45749559082896" y="0" width="59.710758377425044" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="369.16825396825396" y="0" width="41.50546737213404" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="410.673721340388" y="0" width="32.159435626102294" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.83315696649026" y="0" width="17.1668430335097" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,7 +39,7 @@
                             </div>
                             <small>
                                 <div>9.54 kB</div>
-                                <div>67.34%</div>
+                                <div>67.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                             </div>
                             <small>
                                 <div>1.28 kB</div>
-                                <div>9.03%</div>
+                                <div>9.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>529 bytes</div>
-                                <div>3.74%</div>
+                                <div>3.73%</div>
                             </small>
                         </div>
                     </section>
@@ -76,8 +76,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>1.82 kB</div>
-                                <div>12.89%</div>
+                                <div>1.84 kB</div>
+                                <div>12.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,7 +89,7 @@
                             </div>
                             <small>
                                 <div>991 bytes</div>
-                                <div>7%</div>
+                                <div>6.99%</div>
                             </small>
                         </div>
                     </section>
