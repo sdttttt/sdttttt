@@ -102,9 +102,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="412.916989057146" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="412.916989057146" y="0" width="33.63435392947939" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="446.5513429866254" y="0" width="13.4486570133746" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="412.8831369946352" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="412.8831369946352" y="0" width="33.65853658536585" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="446.5416735800011" y="0" width="13.458326419998894" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -129,7 +129,7 @@
                             </div>
                             <small>
                                 <div>529 bytes</div>
-                                <div>2.92%</div>
+                                <div>2.93%</div>
                             </small>
                         </div>
                     </section>
@@ -143,7 +143,7 @@
                             </div>
                             <small>
                                 <div>1.32 kB</div>
-                                <div>7.31%</div>
+                                <div>7.32%</div>
                             </small>
                         </div>
                     </section>
@@ -338,17 +338,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 67.98991354466858%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">85%</span>
+                                <div class="bar" style="width: 74.21213014843212%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">93%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 0.345821325648415%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.3774697729283397%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.007204610951008645%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.007863953602673744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
