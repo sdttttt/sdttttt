@@ -96,15 +96,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 65.3kb of code in 86 edited files across 264 commits over last 43 days</small>
+                <small>estimation from 64.7kb of code in 86 edited files across 264 commits over last 43 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.52554259390826" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="253.52554259390826" y="0" width="180.35019366076133" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="433.87573625466956" y="0" width="26.124263745330367" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="257.10819291109823" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="257.10819291109823" y="0" width="176.39837303893086" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="433.5065659500291" y="0" width="26.493434049970947" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -117,7 +117,7 @@
                             </div>
                             <small>
                                 <div>24 kB</div>
-                                <div>55.11%</div>
+                                <div>55.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -129,7 +129,7 @@
                             </div>
                             <small>
                                 <div>2.48 kB</div>
-                                <div>5.68%</div>
+                                <div>5.76%</div>
                             </small>
                         </div>
                     </section>
@@ -142,8 +142,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>17.1 kB</div>
-                                <div>39.21%</div>
+                                <div>16.5 kB</div>
+                                <div>38.35%</div>
                             </small>
                         </div>
                     </section>
@@ -338,17 +338,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 61.05588317888234%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">76%</span>
+                                <div class="bar" style="width: 59.841739489437835%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">75%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 9.795001404099972%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 11.19108236427441%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.005616399887672002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.005504713410858048%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
