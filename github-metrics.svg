@@ -102,9 +102,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.28662420382165" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="255.28662420382165" y="0" width="164.0339702760085" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="419.32059447983016" y="0" width="40.67940552016985" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.22772368603202" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="255.22772368603202" y="0" width="164.10225647178257" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="419.3299801578146" y="0" width="40.67001984218541" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -117,7 +117,7 @@
                             </div>
                             <small>
                                 <div>24 kB</div>
-                                <div>55.5%</div>
+                                <div>55.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -143,7 +143,7 @@
                             </div>
                             <small>
                                 <div>15.4 kB</div>
-                                <div>35.66%</div>
+                                <div>35.67%</div>
                             </small>
                         </div>
                     </section>
@@ -338,17 +338,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 53.506044905008636%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 53.55172413793103%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">67%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 18.455465087589438%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 18.423645320197043%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">23%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.004934616333580064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.004926108374384236%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
