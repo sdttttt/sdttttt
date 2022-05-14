@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1055" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1057" class="">
     <defs>
         <style/>
     </defs>
@@ -83,14 +83,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 19.1kb of code in 61 edited files across 266 commits over last 41 days</small>
+                <small>estimation from 18.5kb of code in 61 edited files across 266 commits over last 41 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.68209325110945" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="295.68209325110945" y="0" width="164.31790674889055" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="290.3130579692894" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="290.3130579692894" y="0" width="169.68694203071064" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -102,8 +102,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>11.1 kB</div>
-                                <div>64.28%</div>
+                                <div>10.6 kB</div>
+                                <div>63.11%</div>
                             </small>
                         </div>
                     </section>
@@ -117,7 +117,7 @@
                             </div>
                             <small>
                                 <div>6.20 kB</div>
-                                <div>35.72%</div>
+                                <div>36.89%</div>
                             </small>
                         </div>
                     </section>
@@ -312,12 +312,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 53.53205479452055%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 53.45589844604946%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">67%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 26.117260273972605%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 26.193915517618734%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">33%</span>
                             </div>
                         </div>
@@ -421,7 +421,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 11 May 2022, 21:07:58
+                            On 13 May 2022, 23:30:31
                         </div>
                     </section>
                 </div>
@@ -431,22 +431,22 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat(store): Add event handler and reduer.
+                            feat(dispatch): Update feed side-bar logic.
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">bb1abffd</span>
-                            <span class="code">store/message.ts</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code">fcaae2b9</span>
+                            <span class="code">src/components/FeedAddit/index.tsx</span>
+                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--2</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -9,7 +9,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">name: "message",<br /></span><span class="token prefix unchanged">·</span><span class="token line">initialState,<br /></span><span class="token prefix unchanged">·</span><span class="token line">reducers: {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">	send: (state, { payload }: PayloadAction&lt;string&gt;) =&gt; {<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">	send: (state: Message, { payload }: PayloadAction&lt;string&gt;) =&gt; {<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">		const { contents } = state;<br /></span><span class="token prefix unchanged">·</span><span class="token line">		contents.push(payload);<br /></span><span class="token prefix unchanged">·</span><span class="token line">	}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -25,8 +25,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">};<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">// URL变化<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">const handleChangeUrl = (e: ChangeEvent&lt;HTMLInputElement&gt;) =&gt; {<br /></span><span class="token prefix deleted">-</span><span class="token line">	const url = e.target.value;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">const handleChangeUrl = (url: string) =&gt; {<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">	setURL(url);<br /></span><span class="token prefix unchanged">·</span><span class="token line">};<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
