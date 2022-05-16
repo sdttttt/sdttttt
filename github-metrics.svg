@@ -83,14 +83,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 18.6kb of code in 61 edited files across 266 commits over last 42 days</small>
+                <small>estimation from 18.5kb of code in 61 edited files across 266 commits over last 42 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.66165057171634" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="288.66165057171634" y="0" width="171.33834942828366" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="290.3130579692894" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="290.3130579692894" y="0" width="169.68694203071064" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -102,8 +102,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>10.5 kB</div>
-                                <div>62.75%</div>
+                                <div>10.6 kB</div>
+                                <div>63.11%</div>
                             </small>
                         </div>
                     </section>
@@ -116,8 +116,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>6.29 kB</div>
-                                <div>37.25%</div>
+                                <div>6.20 kB</div>
+                                <div>36.89%</div>
                             </small>
                         </div>
                     </section>
@@ -312,12 +312,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 53.51446099912358%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 53.53205479452055%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">67%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 26.134969325153374%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 26.117260273972605%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">33%</span>
                             </div>
                         </div>
@@ -421,7 +421,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 15 May 2022, 17:25:18
+                            On 13 May 2022, 17:49:59
                         </div>
                     </section>
                 </div>
@@ -431,22 +431,22 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat: complete side-bar logic.
+                            fix: test problom.
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">449b0307</span>
+                            <span class="code">fd2a9eaa</span>
                             <span class="code">database/feeds.ts</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -74,7 +74,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">		title: "1",<br /></span><span class="token prefix unchanged">·</span><span class="token line">		url: "1.1.1",<br /></span><span class="token prefix unchanged">·</span><span class="token line">		description: "111",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">		posts: [{ title: "hellow", link: "hellow", pubDate: "", descriptioin: "1", guid: "hellow", category:[] }]<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">		posts: [{ title: "hellow", link: "hellow", pubDate: "", description: "1", guid: "hellow", category:[] }]<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">	}<br /></span><span class="token prefix unchanged">·</span><span class="token line">],<br /></span><span class="token prefix unchanged">·</span><span class="token line">filterKeyword: ""</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -76,7 +76,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">			description: "111",<br /></span><span class="token prefix unchanged">·</span><span class="token line">			posts: [{ title: "hellow", link: "hellow", pubDate: "", descriptioin: "1", guid: "hellow", category:[] }]<br /></span><span class="token prefix unchanged">·</span><span class="token line">		}<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">	]<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">	],<br /></span><span class="token prefix inserted">+</span><span class="token line">	filterKeyword: ""<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">};<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">const realLocalData = clone(feeds);</span></span></code>
                         </div>
                     </section>
                 </div>
