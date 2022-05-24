@@ -89,8 +89,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="258.1733524355301" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="258.1733524355301" y="0" width="201.8266475644699" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.8158494868871" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="256.8158494868871" y="0" width="203.18415051311288" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>7.83 kB</div>
-                                <div>56.12%</div>
+                                <div>55.83%</div>
                             </small>
                         </div>
                     </section>
@@ -116,8 +116,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>6.13 kB</div>
-                                <div>43.88%</div>
+                                <div>6.20 kB</div>
+                                <div>44.17%</div>
                             </small>
                         </div>
                     </section>
@@ -312,7 +312,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 78.38383838383838%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 78.62238622386224%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">98%</span>
                             </div>
                         </div>
