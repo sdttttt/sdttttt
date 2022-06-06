@@ -89,9 +89,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="273.4410565546912" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="273.4410565546912" y="0" width="96.42062082593361" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="369.86167738062477" y="0" width="90.13832261937517" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="273.4342171085543" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="273.4342171085543" y="0" width="96.41820910455228" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="369.8524262131066" y="0" width="90.14757378689345" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
