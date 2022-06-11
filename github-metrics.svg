@@ -89,8 +89,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="237.83913713405238" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="237.83913713405238" y="0" width="222.16086286594762" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="238.1179809946933" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="238.1179809946933" y="0" width="221.8820190053067" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>8.39 kB</div>
-                                <div>51.7%</div>
+                                <div>51.76%</div>
                             </small>
                         </div>
                     </section>
@@ -116,8 +116,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>7.84 kB</div>
-                                <div>48.3%</div>
+                                <div>7.82 kB</div>
+                                <div>48.24%</div>
                             </small>
                         </div>
                     </section>
@@ -312,8 +312,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 46.394917946003176%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">58%</span>
+                                <div class="bar" style="width: 44.145721547585424%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">55%</span>
                             </div>
                         </div>
                     </section>
