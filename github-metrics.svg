@@ -83,30 +83,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 20.5kb of code in 69 edited files across 260 commits over last 65 days</small>
+                <small>estimation from 21.5kb of code in 69 edited files across 260 commits over last 65 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="237.34123066798287" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="237.34123066798287" y="0" width="222.6587693320171" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="237.97113961519486" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="237.97113961519486" y="0" width="222.02886038480514" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TypeScript
-                            </div>
-                            <small>
-                                <div>7.84 kB</div>
-                                <div>51.6%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -116,8 +102,22 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>7.36 kB</div>
-                                <div>48.4%</div>
+                                <div>8.39 kB</div>
+                                <div>51.73%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                TypeScript
+                            </div>
+                            <small>
+                                <div>7.83 kB</div>
+                                <div>48.27%</div>
                             </small>
                         </div>
                     </section>
