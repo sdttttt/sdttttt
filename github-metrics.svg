@@ -89,8 +89,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="245.5105445013702" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="245.5105445013702" y="0" width="214.4894554986298" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="245.37898183983327" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="245.37898183983327" y="0" width="214.62101816016673" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>8.96 kB</div>
-                                <div>53.37%</div>
+                                <div>53.34%</div>
                             </small>
                         </div>
                     </section>
@@ -116,8 +116,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>7.83 kB</div>
-                                <div>46.63%</div>
+                                <div>7.84 kB</div>
+                                <div>46.66%</div>
                             </small>
                         </div>
                     </section>
