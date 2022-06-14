@@ -89,8 +89,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="247.2527212494084" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="247.2527212494084" y="0" width="212.7472787505916" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="247.16499112950916" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="247.16499112950916" y="0" width="212.83500887049084" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>9.09 kB</div>
-                                <div>53.75%</div>
+                                <div>53.73%</div>
                             </small>
                         </div>
                     </section>
@@ -117,7 +117,7 @@
                             </div>
                             <small>
                                 <div>7.82 kB</div>
-                                <div>46.25%</div>
+                                <div>46.27%</div>
                             </small>
                         </div>
                     </section>
@@ -312,8 +312,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 51.62905027932961%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">65%</span>
+                                <div class="bar" style="width: 51.59095994629671%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">64%</span>
                             </div>
                         </div>
                     </section>
