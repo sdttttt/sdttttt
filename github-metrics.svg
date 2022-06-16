@@ -89,8 +89,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="247.35720627404558" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="247.35720627404558" y="0" width="212.64279372595442" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="247.03754064439846" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="247.03754064439846" y="0" width="212.96245935560154" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -102,8 +102,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>9.09 kB</div>
-                                <div>53.77%</div>
+                                <div>9.08 kB</div>
+                                <div>53.7%</div>
                             </small>
                         </div>
                     </section>
@@ -116,8 +116,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>7.81 kB</div>
-                                <div>46.23%</div>
+                                <div>7.83 kB</div>
+                                <div>46.3%</div>
                             </small>
                         </div>
                     </section>
@@ -312,7 +312,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 64.93857493857493%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 64.77941176470588%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">81%</span>
                             </div>
                         </div>
