@@ -83,14 +83,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 22.9kb of code in 72 edited files across 260 commits over last 72 days</small>
+                <small>estimation from 22.8kb of code in 72 edited files across 260 commits over last 72 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.3955794842731" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="256.3955794842731" y="0" width="203.60442051572684" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.23798666134638" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="255.23798666134638" y="0" width="204.7620133386536" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -102,8 +102,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>9.84 kB</div>
-                                <div>55.74%</div>
+                                <div>9.73 kB</div>
+                                <div>55.49%</div>
                             </small>
                         </div>
                     </section>
@@ -117,7 +117,7 @@
                             </div>
                             <small>
                                 <div>7.81 kB</div>
-                                <div>44.26%</div>
+                                <div>44.51%</div>
                             </small>
                         </div>
                     </section>
@@ -312,7 +312,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 63.65367965367965%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 64.33844877644131%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">80%</span>
                             </div>
                         </div>
