@@ -89,8 +89,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="258.0487804878049" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="258.0487804878049" y="0" width="201.9512195121951" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="258.10551154559244" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="258.10551154559244" y="0" width="201.89448845440756" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -102,8 +102,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>9.98 kB</div>
-                                <div>56.1%</div>
+                                <div>9.99 kB</div>
+                                <div>56.11%</div>
                             </small>
                         </div>
                     </section>
@@ -117,7 +117,7 @@
                             </div>
                             <small>
                                 <div>7.81 kB</div>
-                                <div>43.9%</div>
+                                <div>43.89%</div>
                             </small>
                         </div>
                     </section>
@@ -312,7 +312,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 54.54275092936803%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 54.55536289323756%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">68%</span>
                             </div>
                         </div>
