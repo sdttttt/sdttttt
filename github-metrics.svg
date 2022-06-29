@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="942" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="730" class="">
     <defs>
         <style/>
     </defs>
@@ -83,14 +83,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 23.1kb of code in 74 edited files across 260 commits over last 76 days</small>
+                <small>estimation from 23.5kb of code in 74 edited files across 260 commits over last 76 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="258.88515782404295" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="258.88515782404295" y="0" width="201.11484217595702" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.35867478470738" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="251.35867478470738" y="0" width="208.64132521529262" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -102,8 +102,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>10 kB</div>
-                                <div>56.28%</div>
+                                <div>9.96 kB</div>
+                                <div>54.64%</div>
                             </small>
                         </div>
                     </section>
@@ -116,8 +116,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>7.81 kB</div>
-                                <div>43.72%</div>
+                                <div>8.27 kB</div>
+                                <div>45.36%</div>
                             </small>
                         </div>
                     </section>
@@ -351,60 +351,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">28 Jun 2022, 17:46:44</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sdttttt/gcr</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e528453</div>
-                                        <div class="message">chore: Add build faild tip.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">22 Jun 2022, 18:28:45</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">sdttttt/gcr</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bb2d264</div>
-                                        <div class="message">refactor: to default.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f4f77e</div>
-                                        <div class="message">chore: Update stdout to term.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01da440</div>
-                                        <div class="message">chore: Add pre hook.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d29ca62</div>
-                                        <div class="message">chore(hooks): migrate to rusty-hooks.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">22 Jun 2022, 18:22:28</div>
                             </section>
                         </div>
                     </section>
