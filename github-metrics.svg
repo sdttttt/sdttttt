@@ -83,14 +83,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 23.1kb of code in 74 edited files across 260 commits over last 78 days</small>
+                <small>estimation from 23.2kb of code in 75 edited files across 260 commits over last 78 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="257.5607014388489" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="257.5607014388489" y="0" width="202.43929856115108" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.0034594353309" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="259.0034594353309" y="0" width="200.99654056466912" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -102,8 +102,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>9.96 kB</div>
-                                <div>55.99%</div>
+                                <div>10 kB</div>
+                                <div>56.31%</div>
                             </small>
                         </div>
                     </section>
@@ -117,7 +117,7 @@
                             </div>
                             <small>
                                 <div>7.83 kB</div>
-                                <div>44.01%</div>
+                                <div>43.69%</div>
                             </small>
                         </div>
                     </section>
