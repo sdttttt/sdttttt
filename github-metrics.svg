@@ -83,16 +83,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 23.1kb of code in 74 edited files across 247 commits over last 90 days</small>
+                <small>estimation from 22.9kb of code in 74 edited files across 247 commits over last 90 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.65982028241336" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="234.65982028241336" y="0" width="192.06675224646983" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="426.7265725288832" y="0" width="24.467265725288833" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="451.1938382541721" y="0" width="8.806161745827984" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.2095388788427" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="232.2095388788427" y="0" width="194.12748643761302" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="426.33702531645577" y="0" width="24.746835443037977" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="451.0838607594937" y="0" width="8.916139240506329" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -104,8 +104,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>9.14 kB</div>
-                                <div>51.01%</div>
+                                <div>8.93 kB</div>
+                                <div>50.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -116,8 +116,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>953 bytes</div>
-                                <div>5.32%</div>
+                                <div>952 bytes</div>
+                                <div>5.38%</div>
                             </small>
                         </div>
                     </section>
@@ -130,8 +130,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>7.48 kB</div>
-                                <div>41.75%</div>
+                                <div>7.47 kB</div>
+                                <div>42.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -143,7 +143,7 @@
                             </div>
                             <small>
                                 <div>343 bytes</div>
-                                <div>1.91%</div>
+                                <div>1.94%</div>
                             </small>
                         </div>
                     </section>
