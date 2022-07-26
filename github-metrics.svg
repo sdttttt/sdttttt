@@ -89,10 +89,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.77988826815644" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="234.77988826815644" y="0" width="191.91508379888268" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="426.69497206703915" y="0" width="24.490502793296088" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="451.1854748603352" y="0" width="8.814525139664806" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="237.72402542611238" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="237.72402542611238" y="0" width="197.61602070090566" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="435.34004612701807" y="0" width="24.659953872981944" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -104,8 +103,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>9.14 kB</div>
-                                <div>51.04%</div>
+                                <div>9.19 kB</div>
+                                <div>51.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -117,7 +116,7 @@
                             </div>
                             <small>
                                 <div>953 bytes</div>
-                                <div>5.32%</div>
+                                <div>5.36%</div>
                             </small>
                         </div>
                     </section>
@@ -130,20 +129,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>7.47 kB</div>
-                                <div>41.72%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TSX
-                            </div>
-                            <small>
-                                <div>343 bytes</div>
-                                <div>1.92%</div>
+                                <div>7.64 kB</div>
+                                <div>42.96%</div>
                             </small>
                         </div>
                     </section>
