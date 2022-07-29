@@ -83,15 +83,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 19kb of code in 58 edited files across 176 commits over last 92 days</small>
+                <small>estimation from 18.9kb of code in 57 edited files across 176 commits over last 92 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="276.8784985182746" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="276.8784985182746" y="0" width="153.43431017451434" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="430.31280869278896" y="0" width="29.687191307211062" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="277.3716849188547" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="277.3716849188547" y="0" width="153.7076131415754" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="431.0792980604301" y="0" width="28.920701939569867" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -104,7 +104,7 @@
                             </div>
                             <small>
                                 <div>9.14 kB</div>
-                                <div>60.19%</div>
+                                <div>60.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,8 +115,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>980 bytes</div>
-                                <div>6.45%</div>
+                                <div>953 bytes</div>
+                                <div>6.29%</div>
                             </small>
                         </div>
                     </section>
@@ -130,7 +130,7 @@
                             </div>
                             <small>
                                 <div>5.07 kB</div>
-                                <div>33.36%</div>
+                                <div>33.41%</div>
                             </small>
                         </div>
                     </section>
