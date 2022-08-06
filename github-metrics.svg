@@ -89,10 +89,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.40387275242045" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="302.40387275242045" y="0" width="116.3042876901798" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="418.7081604426003" y="0" width="29.17786998616874" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="447.886030428769" y="0" width="12.113969571230983" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.39550773145976" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="302.39550773145976" y="0" width="116.3010705098061" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="418.69657824126585" y="0" width="29.177062875162513" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="447.87364111642836" y="0" width="12.126358883571685" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -142,8 +142,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>952 bytes</div>
-                                <div>2.63%</div>
+                                <div>953 bytes</div>
+                                <div>2.64%</div>
                             </small>
                         </div>
                     </section>
