@@ -89,9 +89,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.64585012087025" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="376.64585012087025" y="0" width="51.89363416599517" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="428.53948428686545" y="0" width="31.460515713134566" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.72141351269954" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="294.72141351269954" y="0" width="128.8424856942074" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="423.5638992069069" y="0" width="36.43610079309306" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,8 +103,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>8.13 kB</div>
-                                <div>81.88%</div>
+                                <div>6.38 kB</div>
+                                <div>64.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,8 +115,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>679 bytes</div>
-                                <div>6.84%</div>
+                                <div>789 bytes</div>
+                                <div>7.92%</div>
                             </small>
                         </div>
                     </section>
@@ -129,8 +129,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>1.12 kB</div>
-                                <div>11.28%</div>
+                                <div>2.79 kB</div>
+                                <div>28.01%</div>
                             </small>
                         </div>
                     </section>
