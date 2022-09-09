@@ -89,24 +89,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.8192602930914" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="312.8192602930914" y="0" width="147.18073970690858" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="310.7891061452514" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="310.7891061452514" y="0" width="149.2108938547486" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                RenderScript
-                            </div>
-                            <small>
-                                <div>1.95 kB</div>
-                                <div>68%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -116,8 +102,22 @@
                                 Rust
                             </div>
                             <small>
-                                <div>917 bytes</div>
-                                <div>32%</div>
+                                <div>1.94 kB</div>
+                                <div>67.56%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                RenderScript
+                            </div>
+                            <small>
+                                <div>929 bytes</div>
+                                <div>32.44%</div>
                             </small>
                         </div>
                     </section>
