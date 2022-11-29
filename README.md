@@ -1,7 +1,7 @@
 
 
 <details>
-  写的语言不固定, 这统计也就看一乐.
+ 前端一般写ts偏多，基础设施看情况，go和rust可能更多.
   
 <summary>Github Metrics</summary>
 
