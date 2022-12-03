@@ -4,6 +4,8 @@
 
 <details>
 
+ programming languages are just tools, don't compare them.
+  
 <summary>Github Metrics</summary>
 
 ![Metrics](/github-metrics.svg)
