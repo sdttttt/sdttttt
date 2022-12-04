@@ -4,7 +4,7 @@
 
 <details>
 
- **programming languages are just tools, don't compare them.**
+ **programming languages are just tools.**
   
 <summary>Github Metrics</summary>
 
