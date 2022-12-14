@@ -3,7 +3,7 @@
   
 
 <details>
-  just bucket.
+  just like bucket.
 
 <summary>Github Metrics</summary>
 
