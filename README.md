@@ -3,10 +3,12 @@
   
 
 <details>
-  just like bucket.
+  
 
 <summary>Github Metrics</summary>
 
 ![Metrics](/github-metrics.svg)
 
+  
+  I love functional programming. ❣
 </details>
