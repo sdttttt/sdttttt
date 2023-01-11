@@ -1,6 +1,5 @@
   
->  *My goal is to escape this dimension* 🤖
-  
+Nothing I do makes sense.
 
 <details>
   
