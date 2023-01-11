@@ -9,5 +9,5 @@ Nothing I do makes sense.
 ![Metrics](/github-metrics.svg)
 
   
-  I love functional programming. ❣
 </details>
+I actually have another blog, but you need to find it yourself.
