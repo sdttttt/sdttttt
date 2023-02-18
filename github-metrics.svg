@@ -83,14 +83,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 196kb of code in 121 edited files across 177 commits over last 93 days</small>
+                <small>estimation from 196kb of code in 119 edited files across 173 commits over last 92 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.889348348569" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="432.889348348569" y="0" width="27.11065165143103" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.87525661152034" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="432.87525661152034" y="0" width="27.12474338847965" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>179 kB</div>
-                                <div>94.11%</div>
+                                <div>94.1%</div>
                             </small>
                         </div>
                     </section>
@@ -117,7 +117,7 @@
                             </div>
                             <small>
                                 <div>11.2 kB</div>
-                                <div>5.89%</div>
+                                <div>5.9%</div>
                             </small>
                         </div>
                     </section>
