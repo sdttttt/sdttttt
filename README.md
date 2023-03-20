@@ -2,8 +2,8 @@
 
 
 <details>
+These statistics are on Github and do not reflect my actual programming data at work.
   
-
 <summary>Github Metrics</summary>
 
 ![Metrics](/github-metrics.svg)
