@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="208.90851642164458" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="208.90851642164458" y="0" width="134.10439657229247" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="343.01291299393705" y="0" width="62.69542860838018" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="405.70834160231726" y="0" width="54.29165839768275" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="210.1547814510761" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="210.1547814510761" y="0" width="133.43878411360106" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="343.5935655646772" y="0" width="62.38424672731306" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="405.97781229199023" y="0" width="54.02218770800977" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>203 kB</div>
-                                <div>45.41%</div>
+                                <div>205 kB</div>
+                                <div>45.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,7 +49,7 @@
                             </div>
                             <small>
                                 <div>61.1 kB</div>
-                                <div>13.63%</div>
+                                <div>13.56%</div>
                             </small>
                         </div>
                     </section>
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>130 kB</div>
-                                <div>29.15%</div>
+                                <div>29.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -75,7 +75,7 @@
                             </div>
                             <small>
                                 <div>52.9 kB</div>
-                                <div>11.8%</div>
+                                <div>11.74%</div>
                             </small>
                         </div>
                     </section>
@@ -83,15 +83,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 661kb of code in 779 edited files across 283 commits over last 75 days</small>
+                <small>estimation from 674kb of code in 795 edited files across 288 commits over last 75 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="326.62825573164736" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="326.62825573164736" y="0" width="123.34289107770567" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.971146809353" y="0" width="10.028853190647007" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.3128510173073" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="329.3128510173073" y="0" width="120.86016322763994" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="450.17301424494724" y="0" width="9.826985755052739" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,8 +103,8 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>236 kB</div>
-                                <div>71.01%</div>
+                                <div>243 kB</div>
+                                <div>71.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -116,7 +116,7 @@
                             </div>
                             <small>
                                 <div>7.27 kB</div>
-                                <div>2.18%</div>
+                                <div>2.14%</div>
                             </small>
                         </div>
                     </section>
@@ -130,7 +130,7 @@
                             </div>
                             <small>
                                 <div>89.4 kB</div>
-                                <div>26.81%</div>
+                                <div>26.27%</div>
                             </small>
                         </div>
                     </section>
@@ -153,6 +153,48 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">sdttttt/ksbot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0554a0c</div>
+                                        <div class="message">feat: remove symbol</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">23 Apr 2023, 13:41:35</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">sdttttt/ksbot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ab67b7f</div>
+                                        <div class="message">Merge branch 'master' of github.com:sdttttt/ksbot</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">23 Apr 2023, 13:39:07</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">sdttttt/sdttttt</span>
                                     </div>
                                 </div>
@@ -164,48 +206,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">21 Apr 2023, 23:25:57</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sdttttt/sdttttt</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5e7a758</div>
-                                        <div class="message">Update Metrics.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Apr 2023, 09:54:07</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sdttttt/ksbot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#837d259</div>
-                                        <div class="message">Update rust.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">19 Apr 2023, 16:46:11</div>
                             </section>
                         </div>
                     </section>
