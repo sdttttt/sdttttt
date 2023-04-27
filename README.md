@@ -6,6 +6,6 @@
 ![Metrics](/github-metrics.svg)
 
 
-I've enjoyed Rust in recent years, even though I'm not very good at using it.
+通常の三倍のスピード、まるで赤い彗星だ。
 </details>
 
