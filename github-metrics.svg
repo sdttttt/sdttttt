@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="532" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="885" class="">
     <defs>
         <style/>
     </defs>
@@ -83,13 +83,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 95.5kb of code in 35 edited files across 36 commits over last 3 days</small>
+                <small>estimation from 104kb of code in 56 edited files across 53 commits over last 3 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.88378271437455" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="375.88378271437455" y="0" width="84.11621728562545" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -101,12 +102,24 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>12.3 kB</div>
-                                <div>100%</div>
+                                <div>14.4 kB</div>
+                                <div>81.71%</div>
                             </small>
                         </div>
                     </section>
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Python
+                            </div>
+                            <small>
+                                <div>3.23 kB</div>
+                                <div>18.29%</div>
+                            </small>
+                        </div>
                     </section>
                 </div>
             </section>
@@ -119,6 +132,131 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 31 commits in
+                                        <span class="repo">sdttttt/blog-notion</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bce9487</div>
+                                        <div class="message">test no arg</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40eb031</div>
+                                        <div class="message">test no arg</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2783815</div>
+                                        <div class="message">test no arg</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46e23c7</div>
+                                        <div class="message">test no arg</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd5d95e</div>
+                                        <div class="message">test no arg</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b146f9d</div>
+                                        <div class="message">Merge pull request #1493 from tangly1024/fix/nobelium-date-format
+
+nobelium 主页日期</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d68a437</div>
+                                        <div class="message">nobelium 主页日期</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f14378</div>
+                                        <div class="message">4.0.14</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49b9d3a</div>
+                                        <div class="message">fix notion  img</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b17208</div>
+                                        <div class="message">Merge pull request #1476 from Ghlerrix/pushUrl
+
+[fix] 修复未配置Action Secrets每日定时推送报错</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a63057</div>
+                                        <div class="message">Merge pull request #1479 from LooseLi/next-style
+
+Next style</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79225e1</div>
+                                        <div class="message">[update] 每日随机取100个url推送
+
+大部分朋友的提交限额是100，因此为了尽可能的覆盖所有url，每天随机取100个进行推送</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eec1db0</div>
+                                        <div class="message">[fix] 修复未配置Action Secrets每日定时推送报错
+
+- URL配置异常捕获，若URL配置错误会给出提示信息
+- 未配置相关信息处理方式
+  - 未配置URL：则啥也不干
+  - 未配置Bing API KEY：则不推送至Bing
+  - 未配置Baidu Token：则不推送至百度</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d6de06</div>
+                                        <div class="message">fix: eslint不检查结尾分号以兼容项目</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#718da30</div>
+                                        <div class="message">style: 菜单下划线动画</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a23443</div>
+                                        <div class="message">style: 统一右侧分类和标签的更多tag</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8aa2e58</div>
+                                        <div class="message">style: 优化文章边距</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4809335</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main' into pushUrl</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9113feb</div>
+                                        <div class="message">[fix] 修复未配置Action Secrets每日定时推送报错
+
+当用户未配置Action Secrets中的URL时每日定时推送会报错，github会发送一条邮件，可能会带来一些不便。
+修复后，未配置Action Secrets则相关代码就不会执行。
+具体如下：
+未配置URL：则啥也不干
+未配置Bing API KEY：则不推送至Bing
+未配置Baidu Token：则不推送至百度</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#669ca76</div>
+                                        <div class="message">[fix] 修复未配置Action Secrets每日定时推送报错
+
+当用户未配置Action Secrets中的URL时每日定时推送会报错，github会发送一条邮件，可能会带来一些不便。
+修复后，未配置Action Secrets则相关代码就不会执行。
+具体如下：
+未配置URL：则啥也不干
+未配置Bing API KEY：则不推送至Bing
+未配置Baidu Token：则不推送至百度</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">2 Sept 2023, 16:04:35</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -159,27 +297,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">2 Sept 2023, 13:56:20</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sdttttt/OpenWrt-Rpi</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#04f96ab</div>
-                                        <div class="message">Delete .github/workflows/bcm27xx-bcm2711.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">2 Sept 2023, 13:56:09</div>
                             </section>
                         </div>
                     </section>
