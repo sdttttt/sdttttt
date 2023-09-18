@@ -83,15 +83,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 168kb of code in 162 edited files across 117 commits over last 19 days</small>
+                <small>estimation from 171kb of code in 167 edited files across 121 commits over last 19 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.20783204844344" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="297.20783204844344" y="0" width="142.94395390402005" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="440.1517859524635" y="0" width="19.84821404753648" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.0383621188544" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="303.0383621188544" y="0" width="137.82430329608147" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="440.86266541493586" y="0" width="19.13733458506411" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,8 +103,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>48.4 kB</div>
-                                <div>64.61%</div>
+                                <div>51.2 kB</div>
+                                <div>65.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -116,7 +116,7 @@
                             </div>
                             <small>
                                 <div>3.23 kB</div>
-                                <div>4.31%</div>
+                                <div>4.16%</div>
                             </small>
                         </div>
                     </section>
@@ -130,7 +130,7 @@
                             </div>
                             <small>
                                 <div>23.3 kB</div>
-                                <div>31.07%</div>
+                                <div>29.96%</div>
                             </small>
                         </div>
                     </section>
@@ -145,6 +145,27 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">sdttttt/blog-notion</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4f9e723</div>
+                                        <div class="message">Merge branch 'tangly1024:main' into main</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">18 Sept 2023, 13:19:44</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -185,27 +206,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">17 Sept 2023, 20:15:54</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sdttttt/Razord-meta</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b934a6a</div>
-                                        <div class="message">feat: limit log row max.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Sept 2023, 13:27:41</div>
                             </section>
                         </div>
                     </section>
