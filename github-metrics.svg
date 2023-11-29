@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="552" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="519" class="">
     <defs>
         <style/>
     </defs>
@@ -83,15 +83,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 368kb of code in 405 edited files across 220 commits over last 91 days</small>
+                <small>estimation from 368kb of code in 407 edited files across 224 commits over last 91 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.2860317773257" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="308.2860317773257" y="0" width="127.51005923522928" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="435.796091012555" y="0" width="24.203908987444997" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.1879874041989" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="308.1879874041989" y="0" width="127.46950714224924" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="435.65749454644816" y="0" width="24.342505453551865" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -104,7 +104,7 @@
                             </div>
                             <small>
                                 <div>149 kB</div>
-                                <div>67.02%</div>
+                                <div>67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,8 +115,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>11.7 kB</div>
-                                <div>5.26%</div>
+                                <div>11.8 kB</div>
+                                <div>5.29%</div>
                             </small>
                         </div>
                     </section>
@@ -130,7 +130,7 @@
                             </div>
                             <small>
                                 <div>61.8 kB</div>
-                                <div>27.72%</div>
+                                <div>27.71%</div>
                             </small>
                         </div>
                     </section>
@@ -153,17 +153,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">sdttttt/OpenWrt</span>
+                                        <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3069d6f</div>
-                                        <div class="message">Update extra.config</div>
+                                        <div class="sha">#5c7b283</div>
+                                        <div class="message">Update build-openwrt.yml</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Nov 2023, 11:39:39</div>
+                                <div class="timestamp">29 Nov 2023, 15:32:49</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -174,38 +174,34 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">sdttttt/OpenWrt</span>
+                                        <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#19c39a4</div>
-                                        <div class="message">Update rockchip.config</div>
+                                        <div class="sha">#d9e4b00</div>
+                                        <div class="message">Update diy-part1.sh</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Nov 2023, 11:35:28</div>
+                                <div class="timestamp">29 Nov 2023, 15:30:12</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sdttttt/OpenWrt</span>
+                                        Created new
+                      branch
+                                        <span class="code">main</span>
+                                        in
+                                        <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c735024</div>
-                                        <div class="message">Update rockchip.config</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">29 Nov 2023, 11:30:20</div>
+                                <div class="timestamp">29 Nov 2023, 15:21:03</div>
                             </section>
                         </div>
                     </section>
