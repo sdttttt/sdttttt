@@ -83,15 +83,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 234kb of code in 352 edited files across 185 commits over last 88 days</small>
+                <small>estimation from 236kb of code in 357 edited files across 195 commits over last 88 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.1193995698137" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="266.1193995698137" y="0" width="162.79254954006683" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="428.91194910988054" y="0" width="31.088050890119444" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="265.7788290141231" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="265.7788290141231" y="0" width="162.58421317244847" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="428.36304218657165" y="0" width="31.636957813428403" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -104,7 +104,7 @@
                             </div>
                             <small>
                                 <div>101 kB</div>
-                                <div>57.85%</div>
+                                <div>57.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,8 +115,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>11.8 kB</div>
-                                <div>6.76%</div>
+                                <div>12 kB</div>
+                                <div>6.88%</div>
                             </small>
                         </div>
                     </section>
@@ -130,7 +130,7 @@
                             </div>
                             <small>
                                 <div>61.8 kB</div>
-                                <div>35.39%</div>
+                                <div>35.34%</div>
                             </small>
                         </div>
                     </section>
@@ -159,53 +159,53 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9da1f35</div>
-                                        <div class="message">Update .config</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Dec 2023, 16:33:07</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sdttttt/actions-openwrt</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#27d38a2</div>
-                                        <div class="message">Update .config</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Dec 2023, 16:27:02</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sdttttt/actions-openwrt</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#168ad3d</div>
+                                        <div class="sha">#17c246b</div>
                                         <div class="message">Update update-checker.yml</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Dec 2023, 14:23:43</div>
+                                <div class="timestamp">11 Dec 2023, 17:38:44</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sdttttt/actions-openwrt</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#abb79e0</div>
+                                        <div class="message">Update build-openwrt.yml</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Dec 2023, 17:38:30</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sdttttt/actions-openwrt</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6b66f5b</div>
+                                        <div class="message">Update .config</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Dec 2023, 17:36:07</div>
                             </section>
                         </div>
                     </section>
