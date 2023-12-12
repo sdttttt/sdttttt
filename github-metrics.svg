@@ -83,15 +83,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 237kb of code in 359 edited files across 199 commits over last 89 days</small>
+                <small>estimation from 238kb of code in 364 edited files across 209 commits over last 89 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="265.7788290141231" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="265.7788290141231" y="0" width="162.58421317244847" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="428.36304218657165" y="0" width="31.636957813428403" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="264.8271386363507" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="264.8271386363507" y="0" width="162.0020380164066" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="426.8291766527573" y="0" width="33.1708233472427" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -104,7 +104,7 @@
                             </div>
                             <small>
                                 <div>101 kB</div>
-                                <div>57.78%</div>
+                                <div>57.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,8 +115,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>12 kB</div>
-                                <div>6.88%</div>
+                                <div>12.6 kB</div>
+                                <div>7.21%</div>
                             </small>
                         </div>
                     </section>
@@ -130,7 +130,7 @@
                             </div>
                             <small>
                                 <div>61.8 kB</div>
-                                <div>35.34%</div>
+                                <div>35.22%</div>
                             </small>
                         </div>
                     </section>
@@ -159,11 +159,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b1593fb</div>
+                                        <div class="sha">#f090ac8</div>
                                         <div class="message">Update .config</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Dec 2023, 21:48:55</div>
+                                <div class="timestamp">12 Dec 2023, 12:48:51</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -180,11 +180,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#12b1b13</div>
-                                        <div class="message">Update update-checker.yml</div>
+                                        <div class="sha">#4e3f6e3</div>
+                                        <div class="message">Update diy-part2.sh</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Dec 2023, 21:33:57</div>
+                                <div class="timestamp">12 Dec 2023, 12:47:34</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -201,11 +201,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#17c246b</div>
-                                        <div class="message">Update update-checker.yml</div>
+                                        <div class="sha">#c18566a</div>
+                                        <div class="message">Update diy-part1.sh</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Dec 2023, 17:38:44</div>
+                                <div class="timestamp">12 Dec 2023, 12:43:49</div>
                             </section>
                         </div>
                     </section>
