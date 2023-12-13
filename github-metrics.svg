@@ -83,7 +83,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 248kb of code in 403 edited files across 287 commits over last 90 days</small>
+                <small>estimation from 249kb of code in 406 edited files across 293 commits over last 90 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -159,11 +159,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5beafdc</div>
-                                        <div class="message">Delete feeds.conf.default</div>
+                                        <div class="sha">#ae74d75</div>
+                                        <div class="message">Update .config</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Dec 2023, 19:36:12</div>
+                                <div class="timestamp">13 Dec 2023, 21:12:03</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -180,11 +180,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f2312ff</div>
-                                        <div class="message">Update diy-part1.sh</div>
+                                        <div class="sha">#d933266</div>
+                                        <div class="message">Update .config</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Dec 2023, 19:31:45</div>
+                                <div class="timestamp">13 Dec 2023, 20:57:46</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -201,11 +201,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8c90594</div>
-                                        <div class="message">Update diy-part1.sh</div>
+                                        <div class="sha">#9868fe1</div>
+                                        <div class="message">Update .config</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Dec 2023, 19:16:55</div>
+                                <div class="timestamp">13 Dec 2023, 20:52:13</div>
                             </section>
                         </div>
                     </section>
