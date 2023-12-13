@@ -83,15 +83,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 246kb of code in 396 edited files across 273 commits over last 90 days</small>
+                <small>estimation from 247kb of code in 399 edited files across 279 commits over last 90 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="264.08447106241664" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="264.08447106241664" y="0" width="161.547727853311" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="425.6321989157276" y="0" width="34.36780108427237" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.8119056125487" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="263.8119056125487" y="0" width="161.38099207766945" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="425.19289769021816" y="0" width="34.80710230978183" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -104,7 +104,7 @@
                             </div>
                             <small>
                                 <div>101 kB</div>
-                                <div>57.41%</div>
+                                <div>57.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,8 +115,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>13.1 kB</div>
-                                <div>7.47%</div>
+                                <div>13.3 kB</div>
+                                <div>7.57%</div>
                             </small>
                         </div>
                     </section>
@@ -130,7 +130,7 @@
                             </div>
                             <small>
                                 <div>61.8 kB</div>
-                                <div>35.12%</div>
+                                <div>35.08%</div>
                             </small>
                         </div>
                     </section>
@@ -159,11 +159,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0de3ba5</div>
-                                        <div class="message">Update .config</div>
+                                        <div class="sha">#d5b94e5</div>
+                                        <div class="message">Update diy-part1.sh</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Dec 2023, 14:22:30</div>
+                                <div class="timestamp">13 Dec 2023, 17:09:07</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -180,11 +180,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b9a3b4d</div>
-                                        <div class="message">Update build-openwrt.yml</div>
+                                        <div class="sha">#d891d17</div>
+                                        <div class="message">Update diy-part2.sh</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Dec 2023, 13:10:53</div>
+                                <div class="timestamp">13 Dec 2023, 17:08:48</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -201,11 +201,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#558053d</div>
-                                        <div class="message">Delete feeds.conf.default</div>
+                                        <div class="sha">#c6ebacb</div>
+                                        <div class="message">Create feeds.conf.default</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Dec 2023, 13:08:44</div>
+                                <div class="timestamp">13 Dec 2023, 16:41:57</div>
                             </section>
                         </div>
                     </section>
