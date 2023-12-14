@@ -1,11 +1,3 @@
-
-*⚠ You may have the wron
-g person.*
-
-
-*☣ 小心二次元*
-
-
 <details>
   
 <summary>Github Metrics</summary>
