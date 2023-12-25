@@ -83,14 +83,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 191kb of code in 280 edited files across 308 commits over last 79 days</small>
+                <small>estimation from 192kb of code in 282 edited files across 312 commits over last 79 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="393.4872417982989" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="393.4872417982989" y="0" width="66.5127582017011" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="393.0749146414943" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="393.0749146414943" y="0" width="66.92508535850573" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>97.8 kB</div>
-                                <div>85.54%</div>
+                                <div>85.45%</div>
                             </small>
                         </div>
                     </section>
@@ -116,8 +116,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>16.5 kB</div>
-                                <div>14.46%</div>
+                                <div>16.6 kB</div>
+                                <div>14.55%</div>
                             </small>
                         </div>
                     </section>
@@ -141,12 +141,12 @@
                                     <div class="content">
                                         Deleted
                       tag
-                                        <span class="code">Immortalwrt-23.05-2023.12.23-1933</span>
+                                        <span class="code">Lean-master-2023.12.23-1959</span>
                                         in
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">25 Dec 2023, 07:19:50</div>
+                                <div class="timestamp">25 Dec 2023, 18:01:39</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -158,12 +158,12 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">Lean-master-2023.12.25-0719</span>
+                                        <span class="code">Immortalwrt-23.05-2023.12.25-1801</span>
                                         in
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">25 Dec 2023, 07:19:49</div>
+                                <div class="timestamp">25 Dec 2023, 18:01:38</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -174,12 +174,12 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">Lean-master-2023.12.25-0719</span>
+                                        <span class="bold">Immortalwrt-23.05-2023.12.25-1801</span>
                                         of
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">25 Dec 2023, 07:19:48</div>
+                                <div class="timestamp">25 Dec 2023, 18:01:37</div>
                             </section>
                         </div>
                     </section>
