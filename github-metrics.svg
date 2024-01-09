@@ -83,7 +83,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 44kb of code in 71 edited files across 142 commits over last 23 days</small>
+                <small>estimation from 43.3kb of code in 65 edited files across 130 commits over last 23 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -101,7 +101,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>3.15 kB</div>
+                                <div>2.53 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -128,12 +128,12 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">openwrt-23.05-2024.01.08-0811</span>
+                                        <span class="code">openwrt-23.05-2024.01.09-0809</span>
                                         in
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Jan 2024, 08:11:58</div>
+                                <div class="timestamp">9 Jan 2024, 08:09:55</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -144,12 +144,12 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">openwrt-23.05-2024.01.08-0811</span>
+                                        <span class="bold">openwrt-23.05-2024.01.09-0809</span>
                                         of
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Jan 2024, 08:11:57</div>
+                                <div class="timestamp">9 Jan 2024, 08:09:54</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -161,12 +161,12 @@
                                     <div class="content">
                                         Deleted
                       tag
-                                        <span class="code">Immortalwrt-23.05-2024.01.08-0734</span>
+                                        <span class="code">Immortalwrt-23.05-2024.01.09-0738</span>
                                         in
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Jan 2024, 07:34:41</div>
+                                <div class="timestamp">9 Jan 2024, 07:38:18</div>
                             </section>
                         </div>
                     </section>
