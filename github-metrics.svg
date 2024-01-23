@@ -83,7 +83,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 49.3kb of code in 63 edited files across 126 commits over last 27 days</small>
+                <small>estimation from 50.5kb of code in 62 edited files across 124 commits over last 26 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -133,11 +133,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9cdecd1</div>
+                                        <div class="sha">#d717edf</div>
                                         <div class="message">Update immortalwrt.r2s.config</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">23 Jan 2024, 12:33:50</div>
+                                <div class="timestamp">23 Jan 2024, 14:43:22</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -154,11 +154,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#aab06cb</div>
-                                        <div class="message">Update immortalwrt-23-05.yml</div>
+                                        <div class="sha">#88d6827</div>
+                                        <div class="message">Update immortalwrt.r2s.config</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">23 Jan 2024, 12:33:13</div>
+                                <div class="timestamp">23 Jan 2024, 14:42:56</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -170,12 +170,12 @@
                                     <div class="content">
                                         Deleted
                       tag
-                                        <span class="code">Immortalwrt-23.05-2024.01.21-2328</span>
+                                        <span class="code">Immortalwrt-23.05-2024.01.22-1209</span>
                                         in
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">23 Jan 2024, 00:42:56</div>
+                                <div class="timestamp">23 Jan 2024, 14:21:50</div>
                             </section>
                         </div>
                     </section>
