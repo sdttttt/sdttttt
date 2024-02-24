@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="822" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="433" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -83,14 +83,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 105kb of code in 220 edited files across 170 commits over last 29 days</small>
+                <small>estimation from 104kb of code in 217 edited files across 164 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.511949552223" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="439.511949552223" y="0" width="20.488050447777013" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="440.7029755579171" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.7029755579171" y="0" width="19.29702444208289" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>72.1 kB</div>
-                                <div>95.55%</div>
+                                <div>95.8%</div>
                             </small>
                         </div>
                     </section>
@@ -116,8 +116,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>3.36 kB</div>
-                                <div>4.45%</div>
+                                <div>3.16 kB</div>
+                                <div>4.2%</div>
                             </small>
                         </div>
                     </section>
@@ -136,107 +136,17 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 110 commits in
-                                        <span class="repo">sdttttt/blog-notion</span>
+                                        Deleted
+                      tag
+                                        <span class="code">Immortalwrt-23.05-2024.02.20-0835</span>
+                                        in
+                                        <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6409d0b</div>
-                                        <div class="message">Merge pull request #1863 from tangly1024/fix/site-title
-
-Fix/site title</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1ab753</div>
-                                        <div class="message">nav 加入归档页面</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4315c5f</div>
-                                        <div class="message">提取公共Head</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76f0bfb</div>
-                                        <div class="message">bug 模板</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4675c37</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/tangly1024/NotionNext</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a06ca74</div>
-                                        <div class="message">nav导航菜单微调</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#77b7f19</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/tangly1024/NotionNext</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9a2d86e</div>
-                                        <div class="message">callout-text style overflow-hidden</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5442755</div>
-                                        <div class="message">Merge pull request #1857 from tangly1024/feat/some-little-improvement
-
-Feat/some-little-improvement</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#022706b</div>
-                                        <div class="message">fukasawa减少动画、并支持调整；
-图片画质参数支持调节；
-博客支持外链文章</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66fc70e</div>
-                                        <div class="message">主题切换丝滑处理</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5a5386</div>
-                                        <div class="message">Merge pull request #1855 from tangly1024/fix/nav-post-card-http
-
-Fix/nav post card http</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea859a6</div>
-                                        <div class="message">Annotation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5a710c</div>
-                                        <div class="message">nav-theme postCard http link</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0c18e3</div>
-                                        <div class="message">NAV主题 导航优化</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80a1411</div>
-                                        <div class="message">Merge pull request #1854 from tangly1024/fix/hexo-style
-
-Hexo主题微调</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#717382d</div>
-                                        <div class="message">Hexo主题微调</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#765ba1c</div>
-                                        <div class="message">Next主题 SEO</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eced20b</div>
-                                        <div class="message">加快友情链接图片加载速度</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a9da4e</div>
-                                        <div class="message">Gitbook导航微调</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">23 Feb 2024, 21:06:19</div>
+                                <div class="timestamp">24 Feb 2024, 08:21:19</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -248,12 +158,12 @@ Hexo主题微调</div>
                                     <div class="content">
                                         Deleted
                       tag
-                                        <span class="code">Immortalwrt-master-2024.02.18-0837</span>
+                                        <span class="code">Immortalwrt-master-2024.02.19-1543</span>
                                         in
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">22 Feb 2024, 22:26:25</div>
+                                <div class="timestamp">24 Feb 2024, 08:21:18</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -265,12 +175,12 @@ Hexo主题微调</div>
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">Immortalwrt-master-2024.02.22-2226</span>
+                                        <span class="code">Immortalwrt-23.05-2024.02.24-0819</span>
                                         in
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">22 Feb 2024, 22:26:22</div>
+                                <div class="timestamp">24 Feb 2024, 08:19:06</div>
                             </section>
                         </div>
                     </section>
