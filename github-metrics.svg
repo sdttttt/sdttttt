@@ -83,14 +83,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 109kb of code in 218 edited files across 164 commits over last 32 days</small>
+                <small>estimation from 110kb of code in 219 edited files across 166 commits over last 32 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.08762584493564" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="432.08762584493564" y="0" width="27.912374155064402" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="422.9004831164196" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="422.9004831164196" y="0" width="37.099516883580414" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>72.1 kB</div>
-                                <div>93.93%</div>
+                                <div>91.93%</div>
                             </small>
                         </div>
                     </section>
@@ -116,8 +116,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>4.66 kB</div>
-                                <div>6.07%</div>
+                                <div>6.33 kB</div>
+                                <div>8.07%</div>
                             </small>
                         </div>
                     </section>
@@ -146,11 +146,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a9e9d16</div>
-                                        <div class="message">Update build-openwrt.yml</div>
+                                        <div class="sha">#b3e324f</div>
+                                        <div class="message">Update diy-part1.sh</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Feb 2024, 18:04:13</div>
+                                <div class="timestamp">28 Feb 2024, 19:40:30</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -167,11 +167,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7b07dae</div>
-                                        <div class="message">Update build-openwrt.yml</div>
+                                        <div class="sha">#0f03d0d</div>
+                                        <div class="message">Update .config</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Feb 2024, 18:00:00</div>
+                                <div class="timestamp">28 Feb 2024, 19:19:53</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -188,11 +188,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8447987</div>
-                                        <div class="message">Delete .github/workflows/.config</div>
+                                        <div class="sha">#5da0077</div>
+                                        <div class="message">Update diy-part1.sh</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Feb 2024, 17:55:52</div>
+                                <div class="timestamp">28 Feb 2024, 19:18:13</div>
                             </section>
                         </div>
                     </section>
