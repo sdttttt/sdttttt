@@ -83,7 +83,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 92.3kb of code in 211 edited files across 201 commits over last 28 days</small>
+                <small>estimation from 92.5kb of code in 214 edited files across 207 commits over last 18 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -146,11 +146,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2ee513d</div>
-                                        <div class="message">Update x86_64-openwrt.yml</div>
+                                        <div class="sha">#2165976</div>
+                                        <div class="message">Update rockchip-openwrt.yml</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 Mar 2024, 17:07:54</div>
+                                <div class="timestamp">3 Mar 2024, 17:37:58</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -167,11 +167,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#39fc160</div>
+                                        <div class="sha">#e36786a</div>
                                         <div class="message">Update x86_64-openwrt.yml</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 Mar 2024, 17:04:46</div>
+                                <div class="timestamp">3 Mar 2024, 17:37:37</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -183,12 +183,12 @@
                                     <div class="content">
                                         Deleted
                       tag
-                                        <span class="code">rockchip-2024.03.02-2354</span>
+                                        <span class="code">X86_64-2024.03.03-1727</span>
                                         in
                                         <span class="repo">sdttttt/actions-lean</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 Mar 2024, 14:06:31</div>
+                                <div class="timestamp">3 Mar 2024, 17:36:02</div>
                             </section>
                         </div>
                     </section>
