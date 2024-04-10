@@ -83,14 +83,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 41kb of code in 83 edited files across 111 commits over last 33 days</small>
+                <small>estimation from 40.5kb of code in 81 edited files across 107 commits over last 31 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="357.6520770087999" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="357.6520770087999" y="0" width="102.3479229912001" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.8388756773615" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="362.8388756773615" y="0" width="97.1611243226385" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>20.2 kB</div>
-                                <div>77.75%</div>
+                                <div>78.88%</div>
                             </small>
                         </div>
                     </section>
@@ -116,8 +116,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>5.79 kB</div>
-                                <div>22.25%</div>
+                                <div>5.42 kB</div>
+                                <div>21.12%</div>
                             </small>
                         </div>
                     </section>
@@ -141,12 +141,12 @@
                                     <div class="content">
                                         Deleted
                       tag
-                                        <span class="code">X86_64-2024.04.07-0654</span>
+                                        <span class="code">X86_64-2024.04.09-0657</span>
                                         in
                                         <span class="repo">sdttttt/actions-lean</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Apr 2024, 06:57:46</div>
+                                <div class="timestamp">10 Apr 2024, 07:29:21</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -158,12 +158,12 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">X86_64-2024.04.09-0657</span>
+                                        <span class="code">X86_64-2024.04.10-0729</span>
                                         in
                                         <span class="repo">sdttttt/actions-lean</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Apr 2024, 06:57:42</div>
+                                <div class="timestamp">10 Apr 2024, 07:29:15</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -174,12 +174,12 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">X86_64-2024.04.09-0657</span>
+                                        <span class="bold">X86_64-2024.04.10-0729</span>
                                         of
                                         <span class="repo">sdttttt/actions-lean</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Apr 2024, 06:57:42</div>
+                                <div class="timestamp">10 Apr 2024, 07:29:15</div>
                             </section>
                         </div>
                     </section>
