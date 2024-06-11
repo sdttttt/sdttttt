@@ -83,7 +83,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 11.5kb of code in 36 edited files across 92 commits over last 64 days</small>
+                <small>estimation from 11.3kb of code in 35 edited files across 90 commits over last 61 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -128,12 +128,12 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">Immortalwrt-master-2024.06.08-0630</span>
+                                        <span class="code">Immortalwrt-master-2024.06.11-0630</span>
                                         in
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Jun 2024, 06:30:46</div>
+                                <div class="timestamp">11 Jun 2024, 06:30:26</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -144,12 +144,12 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">Immortalwrt-master-2024.06.08-0630</span>
+                                        <span class="bold">Immortalwrt-master-2024.06.11-0630</span>
                                         of
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Jun 2024, 06:30:46</div>
+                                <div class="timestamp">11 Jun 2024, 06:30:26</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -161,12 +161,12 @@
                                     <div class="content">
                                         Deleted
                       tag
-                                        <span class="code">Immortalwrt-23.05-2024.06.08-0559</span>
+                                        <span class="code">Immortalwrt-master-2024.05.23-0620</span>
                                         in
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Jun 2024, 05:59:25</div>
+                                <div class="timestamp">11 Jun 2024, 05:42:58</div>
                             </section>
                         </div>
                     </section>
