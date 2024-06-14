@@ -83,7 +83,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 11.9kb of code in 38 edited files across 96 commits over last 64 days</small>
+                <small>estimation from 12.6kb of code in 41 edited files across 102 commits over last 64 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -133,11 +133,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8957197</div>
-                                        <div class="message">Update diy-part1.sh</div>
+                                        <div class="sha">#ee9bd29</div>
+                                        <div class="message">Update x86_64.config</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Jun 2024, 23:51:08</div>
+                                <div class="timestamp">15 Jun 2024, 01:32:36</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -154,11 +154,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#38a9cb6</div>
+                                        <div class="sha">#34277fb</div>
                                         <div class="message">Update x86_64.config</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Jun 2024, 23:49:51</div>
+                                <div class="timestamp">15 Jun 2024, 01:32:03</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -175,11 +175,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cf55d33</div>
-                                        <div class="message">Update x86_64.config</div>
+                                        <div class="sha">#e603e98</div>
+                                        <div class="message">Update x86_64-openwrt.yml</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Jun 2024, 23:49:12</div>
+                                <div class="timestamp">15 Jun 2024, 01:30:31</div>
                             </section>
                         </div>
                     </section>
