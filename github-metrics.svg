@@ -83,7 +83,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 16kb of code in 42 edited files across 84 commits over last 31 days</small>
+                <small>estimation from 13.9kb of code in 40 edited files across 80 commits over last 31 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -128,12 +128,12 @@
                                     <div class="content">
                                         Deleted
                       tag
-                                        <span class="code">X86_64-2024.10.22-0553</span>
+                                        <span class="code">Immortalwrt-23.05-2024.10.15-2353</span>
                                         in
-                                        <span class="repo">sdttttt/actions-lean</span>
+                                        <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">22 Oct 2024, 05:53:50</div>
+                                <div class="timestamp">22 Oct 2024, 06:39:00</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -145,12 +145,12 @@
                                     <div class="content">
                                         Deleted
                       tag
-                                        <span class="code">rockchip-2024.10.12-0602</span>
+                                        <span class="code">Immortalwrt-master-2024.10.17-0427</span>
                                         in
-                                        <span class="repo">sdttttt/actions-lean</span>
+                                        <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">22 Oct 2024, 05:53:49</div>
+                                <div class="timestamp">22 Oct 2024, 06:38:59</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -162,12 +162,12 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">X86_64-2024.10.22-0553</span>
+                                        <span class="code">Immortalwrt-23.05-2024.10.22-0638</span>
                                         in
-                                        <span class="repo">sdttttt/actions-lean</span>
+                                        <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">22 Oct 2024, 05:53:45</div>
+                                <div class="timestamp">22 Oct 2024, 06:38:52</div>
                             </section>
                         </div>
                     </section>
