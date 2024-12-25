@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="433" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="453" class="">
     <defs>
         <style/>
     </defs>
@@ -83,14 +83,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 87.2kb of code in 66 edited files across 29 commits over last 45 days</small>
+                <small>estimation from 90.7kb of code in 73 edited files across 43 commits over last 45 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="315.05742200891325" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="315.05742200891325" y="0" width="144.94257799108672" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.34425211519056" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="285.34425211519056" y="0" width="131.27299542032137" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="416.6172475355119" y="0" width="43.382752464488085" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,7 +104,19 @@
                             </div>
                             <small>
                                 <div>15.9 kB</div>
-                                <div>68.49%</div>
+                                <div>62.03%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Shell
+                            </div>
+                            <small>
+                                <div>2.43 kB</div>
+                                <div>9.43%</div>
                             </small>
                         </div>
                     </section>
@@ -117,7 +130,7 @@
                             </div>
                             <small>
                                 <div>7.35 kB</div>
-                                <div>31.51%</div>
+                                <div>28.54%</div>
                             </small>
                         </div>
                     </section>
@@ -141,12 +154,12 @@
                                     <div class="content">
                                         Deleted
                       tag
-                                        <span class="code">Immortalwrt-24.10-2024.12.15-0954</span>
+                                        <span class="code">Immortalwrt-24.10-2024.12.19-2142</span>
                                         in
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Dec 2024, 09:59:38</div>
+                                <div class="timestamp">25 Dec 2024, 10:03:48</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -158,12 +171,12 @@
                                     <div class="content">
                                         Deleted
                       tag
-                                        <span class="code">Immortalwrt-master-2024.12.19-0428</span>
+                                        <span class="code">Immortalwrt-24.10-2024.12.20-1720</span>
                                         in
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Dec 2024, 09:59:38</div>
+                                <div class="timestamp">25 Dec 2024, 10:03:48</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -174,12 +187,12 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">Immortalwrt-24.10-2024.12.24-0959</span>
+                                        <span class="bold">Immortalwrt-24.10-2024.12.25-1003</span>
                                         of
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Dec 2024, 09:59:32</div>
+                                <div class="timestamp">25 Dec 2024, 10:03:31</div>
                             </section>
                         </div>
                     </section>
