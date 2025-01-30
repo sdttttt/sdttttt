@@ -128,12 +128,12 @@
                                     <div class="content">
                                         Deleted
                       tag
-                                        <span class="code">Immortalwrt-24.10-2025.01.22-2345</span>
+                                        <span class="code">X86_64-2025.01.30-0515</span>
                                         in
-                                        <span class="repo">sdttttt/actions-openwrt</span>
+                                        <span class="repo">sdttttt/actions-lean</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Jan 2025, 06:58:40</div>
+                                <div class="timestamp">30 Jan 2025, 05:15:40</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -145,12 +145,12 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">openwrt-master-2025.01.28-0658</span>
+                                        <span class="code">X86_64-2025.01.30-0515</span>
                                         in
-                                        <span class="repo">sdttttt/actions-openwrt</span>
+                                        <span class="repo">sdttttt/actions-lean</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Jan 2025, 06:58:36</div>
+                                <div class="timestamp">30 Jan 2025, 05:15:34</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -161,12 +161,12 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">openwrt-master-2025.01.28-0658</span>
+                                        <span class="bold">X86_64-2025.01.30-0515</span>
                                         of
-                                        <span class="repo">sdttttt/actions-openwrt</span>
+                                        <span class="repo">sdttttt/actions-lean</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Jan 2025, 06:58:36</div>
+                                <div class="timestamp">30 Jan 2025, 05:15:34</div>
                             </section>
                         </div>
                     </section>
