@@ -83,7 +83,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 6.30kb of code in 31 edited files across 62 commits over last 30 days</small>
+                <small>estimation from 4.47kb of code in 25 edited files across 50 commits over last 30 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -101,7 +101,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>3.25 kB</div>
+                                <div>2.01 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -128,12 +128,12 @@
                                     <div class="content">
                                         Deleted
                       tag
-                                        <span class="code">Immortalwrt-24.10-2025.03.13-2233</span>
+                                        <span class="code">Immortalwrt-24.10-2025.03.15-1417</span>
                                         in
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">30 Mar 2025, 06:20:51</div>
+                                <div class="timestamp">30 Mar 2025, 08:30:01</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -144,12 +144,12 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">Immortalwrt-24.10-2025.03.30-0620</span>
+                                        <span class="bold">openwrt-master-2025.03.30-0829</span>
                                         of
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">30 Mar 2025, 06:20:45</div>
+                                <div class="timestamp">30 Mar 2025, 08:29:54</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -161,12 +161,12 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">Immortalwrt-24.10-2025.03.30-0620</span>
+                                        <span class="code">openwrt-master-2025.03.30-0829</span>
                                         in
                                         <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">30 Mar 2025, 06:20:44</div>
+                                <div class="timestamp">30 Mar 2025, 08:29:54</div>
                             </section>
                         </div>
                     </section>
