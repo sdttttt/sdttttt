@@ -111,12 +111,12 @@
                                     <div class="content">
                                         Deleted
                       tag
-                                        <span class="code">X86_64-2025.04.26-0549</span>
+                                        <span class="code">openwrt-master-2025.04.15-0829</span>
                                         in
-                                        <span class="repo">sdttttt/actions-lean</span>
+                                        <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 May 2025, 05:43:48</div>
+                                <div class="timestamp">3 May 2025, 12:39:07</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -127,12 +127,12 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">X86_64-2025.05.03-0543</span>
+                                        <span class="bold">Immortalwrt-24.10-2025.05.03-1238</span>
                                         of
-                                        <span class="repo">sdttttt/actions-lean</span>
+                                        <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 May 2025, 05:43:36</div>
+                                <div class="timestamp">3 May 2025, 12:38:58</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -144,12 +144,12 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">X86_64-2025.05.03-0543</span>
+                                        <span class="code">Immortalwrt-24.10-2025.05.03-1238</span>
                                         in
-                                        <span class="repo">sdttttt/actions-lean</span>
+                                        <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 May 2025, 05:43:35</div>
+                                <div class="timestamp">3 May 2025, 12:38:58</div>
                             </section>
                         </div>
                     </section>
