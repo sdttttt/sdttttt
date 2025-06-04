@@ -1,4 +1,4 @@
-目标是成为AWK语言高手！
+OMG!是成为AWK语言高手！
 
 <details>
 
