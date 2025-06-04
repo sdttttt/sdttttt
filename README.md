@@ -1,13 +1,11 @@
 <details>
 
+目标是成为AWK语言高手！
+
 <summary>Github Metrics</summary>
-
-*学啥啥不行，摆烂第一名*
-
-
 
 ![Metrics](/github-metrics.svg)
 
-AWK成瘾者
+
 </details>
 
