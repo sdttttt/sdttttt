@@ -83,7 +83,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 10.9kb of code in 44 edited files across 88 commits over last 28 days</small>
+                <small>estimation from 11.3kb of code in 47 edited files across 94 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -127,17 +127,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">sdttttt/actions-lean</span>
+                                        <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7b3536f</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#4bfdf96</div>
+                                        <div class="message">Update openwrt.x86.config</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">4 Jun 2025, 16:59:29</div>
+                                <div class="timestamp">4 Jun 2025, 19:31:31</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -148,17 +148,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">sdttttt/actions-lean</span>
+                                        <span class="repo">sdttttt/actions-openwrt</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e0e1647</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#16092b7</div>
+                                        <div class="message">Update immortalwrt-24-10.yml</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">4 Jun 2025, 16:58:17</div>
+                                <div class="timestamp">4 Jun 2025, 19:26:02</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -169,17 +169,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">sdttttt/actions-lean</span>
+                                        <span class="repo">sdttttt/sdttttt</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7994fd4</div>
+                                        <div class="sha">#26fe3b0</div>
                                         <div class="message">Update README.md</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">4 Jun 2025, 16:57:59</div>
+                                <div class="timestamp">4 Jun 2025, 19:20:52</div>
                             </section>
                         </div>
                     </section>
