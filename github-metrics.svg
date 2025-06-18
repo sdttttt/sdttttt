@@ -83,7 +83,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 35.8kb of code in 69 edited files across 138 commits over last 31 days</small>
+                <small>estimation from 53.1kb of code in 80 edited files across 162 commits over last 31 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -101,7 +101,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>12.3 kB</div>
+                                <div>18.8 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -133,11 +133,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8d407e5</div>
+                                        <div class="sha">#e2923fb</div>
                                         <div class="message">Update README.md</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Jun 2025, 20:51:47</div>
+                                <div class="timestamp">17 Jun 2025, 21:47:58</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -154,11 +154,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f21c8d0</div>
+                                        <div class="sha">#50da8e0</div>
                                         <div class="message">Update README.md</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Jun 2025, 20:48:11</div>
+                                <div class="timestamp">17 Jun 2025, 21:46:35</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -175,11 +175,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7a19058</div>
+                                        <div class="sha">#cbb4fe6</div>
                                         <div class="message">Update README.md</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Jun 2025, 20:47:39</div>
+                                <div class="timestamp">17 Jun 2025, 21:44:26</div>
                             </section>
                         </div>
                     </section>
