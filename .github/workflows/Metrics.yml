@@ -44,6 +44,5 @@ jobs:
           plugin_languages_threshold: 1%
           
           plugin_code: yes
-          plugin_code_languages: rust, typescript
           plugin_code_load: 400
           
