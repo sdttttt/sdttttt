@@ -1,12 +1,8 @@
-*求求你了，和我一辈子写开源吧。*
-
 <details>
-杂食性技术栈，开源会偏底层一些，但Web也是用来吃饭.
-  
+喜欢写各种奇怪的代码, 不过github上不会写web项目.
+
 <summary>Github Metrics</summary>
 
 ![Metrics](/github-metrics.svg)
 
 </details>
-
-*写开源挺开心的，不过还是打游戏更开心。*
