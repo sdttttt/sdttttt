@@ -1,5 +1,5 @@
 <details>
-喜欢写各种奇怪的代码, 不过github上不会写web项目.
+喜欢写各种奇怪的代码, 但是一直学不会Web开发。
 
 <summary>Github Metrics</summary>
 
